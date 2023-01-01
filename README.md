@@ -2,10 +2,11 @@
 
 This repository contains materials, assignments and solutions on the Edx course ["CSMM.103xRobotics"](https://learning.edx.org/course/course-v1:ColumbiaX+CSMM.103x+1T2018/home).
 
-## Course Outline
+## Course Outline  
+
 Week 1: Introduction to Robotics, Robotics and AI, Introduction to ROS, Project 1 released
 
-Week 2: 2D Transforms, Homogenous Coordinates, 3D Transforms, Thinking about Transforms, Transform Inverse, Rotation Representations, Transforms in ROS, the TF Library, Project 2 released
+[Week 2: Reasoning About Space and Transforms](week2). 2D Transforms, Homogenous Coordinates, 3D Transforms, Thinking about Transforms, Transform Inverse, Rotation Representations, Transforms in ROS, the TF Library, Project 2 released
 
 Week 3: Robot Arms Introduction, Kinematic Chains, Forward Kinematics: URDF, Forward Kinematics: Analytical Methods, DH Parameters, Forward Kinematics:DH Examples, Project 3 released
 
