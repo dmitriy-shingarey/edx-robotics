@@ -225,3 +225,34 @@ It can be seen from different perspective - point $p$ is observed from origin an
 ![point in origin](pics/point_in_origin.png)
 
 Here we are moving another way around - from right to left.
+
+## Transform Inverse
+
+![Transform Invesre](pics/transform_inverse.png)
+
+## Rotation Representations
+
+### Axis angle
+
+![Axis Angle](pics/axis_angle.png)
+
+![Axis Angle 2](pics/axis_angle2.png)
+
+### Elementary rotation (euler angles)
+
+![Euler Angle](pics/euler_angle1.png)
+
+![Euler Angle 2](pics/euler_angle2.png)
+
+### Unit quaternion
+
+### Interchangability
+
+![Interchange](pics/interchange.png)
+
+### Pros and Cons
+
+![Pros And Cons](pics/pros_and_cons.png)
+
+Any rotation in space can be specified with 3 numbers - 3DOF.
+For any transform in space can be specified with 6 numbers - 6DOF.
