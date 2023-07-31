@@ -10,7 +10,7 @@ Week 1: Introduction to Robotics, Robotics and AI, Introduction to ROS, Project 
 
 [Week 3: Robot Arms - Forward Kinematics](week3). Robot Arms Introduction, Kinematic Chains, Forward Kinematics: URDF, Forward Kinematics: Analytical Methods, DH Parameters, Forward Kinematics:DH Examples, Project 3 released
 
-Week 4: Analytical IK, Robot Examples, Robot Workspaces and IK Solutions, Homework 1 released
+[Week 4: Analytical IK](week4), Robot Examples, Robot Workspaces and IK Solutions, Homework 1 released
 
 Week 5: Differential Kinematics: Jacobian Definition and Analytical Computation, Singularities, Full Kinematics: Robot Examples, Homework 2 released
 
